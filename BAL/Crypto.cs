@@ -8,7 +8,7 @@ using System.Security.Cryptography;
 using CloudBreadLib.BAL.Base64;
 
 namespace CloudBreadLib.BAL.Crypto
-{
+{ 
     public class Crypto
     {
 
